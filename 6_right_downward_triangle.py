@@ -8,10 +8,10 @@
 # Print new line everytime after the internal loop.
 
 #  ****
-#  ****
 #   ***
 #    **
 #     *
+
 
 
 while True:
